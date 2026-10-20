@@ -1,0 +1,11 @@
+node_modules/ 
+dist/ 
+.env 
+.env.* 
+!.env.example 
+ForwardEdge-Website.zip 
+ForwardEdge-Zip-Test/ 
+.DS_Store 
+Thumbs.db 
+/cd 
+/pnpm
